@@ -1,6 +1,6 @@
-# 公告信箱 smail
+# 公告信箱 spost/smail
 
-## 公告 notice
+## 公告 spost
 
 由上而下发布通知和公告
 
