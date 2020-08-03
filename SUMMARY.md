@@ -14,7 +14,7 @@ bui# Summary
     * [后台 backend](common/backend.md)
     * [前端 public](common/public.md)
     * [小程序 wxmp](common/wxmp.md)
-        * [按钮集合 buttonGroup](common/mp/buttonGroup.md)
+        * [按钮集合 buttonGroup](common/mp/qs-button-group.md)
 * [教学框架 teach](teach/README.md)
     * [家长端 parents](teach/parents.md)
     * [学生端 student](teach/student.md)

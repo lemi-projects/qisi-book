@@ -2,7 +2,9 @@
 
 ## 通用组件
 
-### buttonGroup
+### qs-button-group
+
+### qs-swiper
 
 ## form组件
 
