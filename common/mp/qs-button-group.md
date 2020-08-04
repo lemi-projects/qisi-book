@@ -15,19 +15,18 @@ import qsButtonGroup from '../../components/qs-button-group/index'
 
 ## 属性
 ```
-export default {
-    props: {
-        isRound: Boolean, //是否圆形图标 不传为方形
-        isShadow: Boolean, //是否有阴影效果
-        url: String, //点击后跳转的目标页面
-        data: Array,
-        /*
-        data: [{
-            param: 1001, //传给目标页面的参数
-            label: '环球美食', //按钮文字
-            image: 'https://', //按钮图标url
-        },]
-        */
-    },
+props: {
+    isRound: Boolean, //是否圆形图标(默认正方形)
+    isShadow: Boolean, //是否加阴影效果
+    page: String, //跳转的目标页面
+    data: Array,
+    /*
+    [{
+        param: 1001, //传给目标页面的参数
+        label: '环球美食', //按钮文字
+        image: 'https://', //按钮图标url
+    },]
+    */
+},
 ```
 
