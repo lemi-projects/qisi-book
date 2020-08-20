@@ -139,7 +139,7 @@ users <tview> {
 说明
 
     sql 数据库查询语句
-    args 查询参数， pagesize 每页记录数，pagefrom 显示页 (base 0)
+    args 查询参数， pagesize 每页记录数，pagefrom 显示页 (base 1)
     columns 列表显示字段，当指定字段为 `<control>` 格式时，数据更新表单中会按该组件方式提供编辑
     updates 数据更新描述，可以有多个数据更新
 
