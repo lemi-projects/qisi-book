@@ -23,7 +23,7 @@ data:{
     console.log(res)
 })
 ```
-##积分列表 未完成 表需要重构
+##积分详情列表
 ```javascript
 request({
 url: '/get/gain_list_1603448250', 
@@ -31,7 +31,7 @@ url: '/get/gain_list_1603448250',
     console.log(res)
 })
 ```
-##用户积分 未完成 表需要重构
+##用户总积分
 ```javascript
 request({
 url: '/get/user_gain_1603448251', 
