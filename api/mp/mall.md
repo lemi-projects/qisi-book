@@ -6,7 +6,7 @@ url: 'get/query_shop_saling_goods_1603088780',
 data:{
     pagefrom:1 //页码
     pagesize:10 //分页大小
-    shop_id:0 //商店id
+    shop_id:1 //商店id
 },
 }).then((res) => {
     console.log(res)
